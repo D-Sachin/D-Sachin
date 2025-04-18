@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sachin Kavishka  
 
-![Welcome Banner](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)  
+![Colorful Digital Welcome Banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ### 💻 Full-Stack Developer | 📱 Mobile App Enthusiast | 🚀 Tech Explorer  
 
