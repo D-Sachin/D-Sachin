@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sachin Kavishka
 
-![Welcome](https://media.giphy.com/media/1v7u8B7V5mp64ibYay/giphy.gif)
+![Welcome Animation](https://media.giphy.com/media/1v7u8B7V5mp64ibYay/giphy.gif)
 
 ## 👀 I’m interested in ...
 - Web development (MERN stack)
