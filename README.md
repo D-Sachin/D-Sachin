@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Profile Badges Row -->
-![Profile Views](https://komarev.com/ghpvc/?username=kavishkadsa&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/kavishkadsa?style=for-the-badge&color=238636&labelColor=0D1117&label=FOLLOWERS)](https://github.com/kavishkadsa)
-[![GitHub Stars](https://img.shields.io/github/stars/kavishkadsa?style=for-the-badge&color=F0883E&labelColor=0D1117&label=TOTAL+STARS)](https://github.com/kavishkadsa)
+![Profile Views](https://komarev.com/ghpvc/?username=D-Sachin&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/D-Sachin?style=for-the-badge&color=238636&labelColor=0D1117&label=FOLLOWERS)](https://github.com/D-Sachin)
+[![GitHub Stars](https://img.shields.io/github/stars/D-Sachin?style=for-the-badge&color=F0883E&labelColor=0D1117&label=TOTAL+STARS)](https://github.com/D-Sachin)
 
 </div>
 
@@ -89,7 +89,7 @@ open_to     : ["Collaborations", "Open Source", "Freelance Projects"]
     <td width="50%">
       <h3 align="center">🏫 Campus Connect</h3>
       <p align="center">
-        <a href="https://github.com/kavishkadsa">
+        <a href="https://github.com/D-Sachin">
           <img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -103,7 +103,7 @@ open_to     : ["Collaborations", "Open Source", "Freelance Projects"]
     <td width="50%">
       <h3 align="center">🏋️ JK Sports</h3>
       <p align="center">
-        <a href="https://github.com/kavishkadsa">
+        <a href="https://github.com/D-Sachin">
           <img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -119,7 +119,7 @@ open_to     : ["Collaborations", "Open Source", "Freelance Projects"]
     <td width="50%">
       <h3 align="center">🍜 Seoul K-Food</h3>
       <p align="center">
-        <a href="https://github.com/kavishkadsa">
+        <a href="https://github.com/D-Sachin">
           <img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -133,7 +133,7 @@ open_to     : ["Collaborations", "Open Source", "Freelance Projects"]
     <td width="50%">
       <h3 align="center">✈️ Air Ticket Booking</h3>
       <p align="center">
-        <a href="https://github.com/kavishkadsa">
+        <a href="https://github.com/D-Sachin">
           <img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -148,7 +148,7 @@ open_to     : ["Collaborations", "Open Source", "Freelance Projects"]
     <td width="50%">
       <h3 align="center">🍕 Finland Online Foods</h3>
       <p align="center">
-        <a href="https://github.com/kavishkadsa">
+        <a href="https://github.com/D-Sachin">
           <img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -162,7 +162,7 @@ open_to     : ["Collaborations", "Open Source", "Freelance Projects"]
     <td width="50%">
       <h3 align="center">🎭 Playwright Test Suite</h3>
       <p align="center">
-        <a href="https://github.com/kavishkadsa">
+        <a href="https://github.com/D-Sachin">
           <img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -181,16 +181,16 @@ open_to     : ["Collaborations", "Open Source", "Freelance Projects"]
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavishkadsa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishkadsa&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D-Sachin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Sachin&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=kavishkadsa&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&sideNums=8B949E&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=D-Sachin&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&sideNums=8B949E&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" />
 </div>
 
 <div align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavishkadsa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F0883E&area=true&area_color=58A6FF&hide_border=true" />
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=D-Sachin&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F0883E&area=true&area_color=58A6FF&hide_border=true" />
 </div>
 
 ---
@@ -198,7 +198,7 @@ open_to     : ["Collaborations", "Open Source", "Freelance Projects"]
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavishkadsa&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=D-Sachin&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=8" />
 </div>
 
 ---
@@ -207,9 +207,9 @@ open_to     : ["Collaborations", "Open Source", "Freelance Projects"]
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kavishkadsa/kavishkadsa/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kavishkadsa/kavishkadsa/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/kavishkadsa/kavishkadsa/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Sachin/D-Sachin/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-Sachin/D-Sachin/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/D-Sachin/D-Sachin/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -221,11 +221,11 @@ open_to     : ["Collaborations", "Open Source", "Freelance Projects"]
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/kavishkadsa)
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/kavishkadsa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/D-Sachin)
+[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/D-Sachin)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavishkadsa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://kavishkadsa.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D-Sachin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://D-Sachin.vercel.app)
 
 </div>
 
