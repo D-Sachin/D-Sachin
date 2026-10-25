@@ -1,44 +1,45 @@
-<img src="portrait.jpg" alt="Portrait of Sachin Kavishka" width="220" align="right" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" alt="Sachin Kavishka — full-stack developer in Galle, Sri Lanka" width="100%"></picture>
 
-# Sachin Kavishka
+<p align="center">
+  <a href="https://portfolio-nu-amber-p12k7alk48.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sachinkavishka001/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:sachinkavishka001@gmail.com"><b>Email</b></a>
+</p>
 
-Full-stack developer &nbsp;·&nbsp; Galle, Sri Lanka
+<br>
 
-I build web, desktop and mobile products end to end — React and Next.js up front, Spring Boot and Node.js behind them — and hold every layer to the same quiet standard. Information Technology undergraduate at SLIIT.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" alt="About — I build software end to end, and hold every layer, schema, service and interface, to the same quiet standard." width="100%"></picture>
 
-**[Portfolio](https://portfolio-nu-amber-p12k7alk48.vercel.app/)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/sachinkavishka001/)** &nbsp;·&nbsp; **[Email](mailto:sachinkavishka001@gmail.com)**
+<br><br>
 
-<br clear="right" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg"><img src="assets/work-light.svg" alt="Selected work" width="100%"></picture>
 
----
+<p align="center">
+  <a href="https://www.power-pizza.fi/"><img src="assets/card-1.svg" alt="Power Pizza — Online ordering for an artisan pizzeria in Helsinki — pickup, dine-in or home delivery, with Google sign-in." width="48%"></a>&emsp;<a href="https://jksports.lk/"><img src="assets/card-2.svg" alt="JK Sports — An online store for sports equipment in Sri Lanka, with 1,400+ products across 56 categories." width="48%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/D-Sachin/it3030-paf-2026-smart-campus-Y3S2-WE-67"><img src="assets/card-3.svg" alt="Smart Campus Operations Hub — Campus facilities, bookings, incidents and notifications — a Spring Boot REST API with a React front end, OAuth2 and JWT." width="48%"></a>&emsp;<a href="https://portfolio-nu-amber-p12k7alk48.vercel.app/"><img src="assets/card-4.svg" alt="Seoul K-Food — Korean food ordering with real-time order tracking, menu management and customer accounts." width="48%"></a>
+</p>
+<p align="center">
+  <a href="https://portfolio-nu-amber-p12k7alk48.vercel.app/"><img src="assets/card-5.svg" alt="Air Ticket Booking System — Bookings, passengers and flight management for the staff of Srinath Travels Agency." width="48%"></a>&emsp;<a href="https://github.com/D-Sachin/IT3040-Assignment1"><img src="assets/card-6.svg" alt="Playwright Test Suite — End-to-end tests for a Singlish-to-Sinhala translator web app." width="48%"></a>
+</p>
 
-### Selected work
+<p align="center"><sub>Also on GitHub — <a href="https://github.com/D-Sachin/FinanceTrackerApp">Finance Tracker</a> and <a href="https://github.com/D-Sachin/Mobile-App">Pizza Shop App</a>, Android apps in Kotlin.</sub></p>
 
-| Project | What it is | Built with |
-| :-- | :-- | :-- |
-| **[Power Pizza](https://www.power-pizza.fi/)**<br><sub>Live · Finland Online Foods</sub> | Online ordering for an artisan pizzeria in Helsinki — pickup, dine-in or home delivery, with Google sign-in. | React · Vite · Node.js · MongoDB |
-| **[JK Sports](https://jksports.lk/)**<br><sub>Live · E-commerce</sub> | An online store for sports equipment in Sri Lanka, with 1,400+ products across 56 categories. | Next.js · React · TypeScript |
-| **[Smart Campus Operations Hub](https://github.com/D-Sachin/it3030-paf-2026-smart-campus-Y3S2-WE-67)**<br><sub>2026 · Group project</sub> | Campus facilities, bookings, incidents and notifications — a Spring Boot REST API with a React front end, secured with OAuth2 and JWT. | Java · Spring Boot · React · PostgreSQL |
-| **Seoul K-Food**<br><sub>In progress · Private</sub> | Korean food ordering with real-time order tracking, menu management and customer accounts. | React · Node.js · PostgreSQL |
-| **Air Ticket Booking System**<br><sub>Private</sub> | Bookings, passengers and flight management for the staff of Srinath Travels Agency. | TypeScript · Node.js |
-| **[Playwright Test Suite](https://github.com/D-Sachin/IT3040-Assignment1)**<br><sub>2026 · Test automation</sub> | End-to-end tests for a Singlish-to-Sinhala translator web app. | Playwright · Python |
+<br>
 
-Smaller builds — [Finance Tracker](https://github.com/D-Sachin/FinanceTrackerApp) and [Pizza Shop App](https://github.com/D-Sachin/Mobile-App), both Android apps in Kotlin.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/marquee-dark.svg"><img src="assets/marquee-light.svg" alt="Stack: React, Spring Boot, Next.js, Node.js, TypeScript, Kotlin, PostgreSQL, Electron, MongoDB, Playwright, Java, Docker" width="100%"></picture>
 
----
+<br><br>
 
-### Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" alt="Capabilities — frontend, backend and data, desktop and mobile, testing and tooling" width="100%"></picture>
 
-**Frontend** — React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML & CSS<br>
-**Backend & data** — Spring Boot · Java · Node.js · Express · REST APIs · PostgreSQL · MongoDB · MySQL · Firebase<br>
-**Desktop & mobile** — Electron · Kotlin · Android · React Native<br>
-**Testing & tooling** — Playwright · Git · GitHub Actions · Docker · IntelliJ IDEA · VS Code
+<br><br>
 
-Currently learning — *advanced Spring Boot, React Native, Firebase and microservices.*
+<a href="mailto:sachinkavishka001@gmail.com"><img src="assets/contact.svg" alt="Have a project in mind? Write to sachinkavishka001@gmail.com" width="100%"></a>
 
----
-
-### Working together
-
-Open to collaborations, open-source work and freelance projects.
-The quickest way to reach me is [sachinkavishka001@gmail.com](mailto:sachinkavishka001@gmail.com), or through the form on my [portfolio](https://portfolio-nu-amber-p12k7alk48.vercel.app/#contact).
+<p align="center">
+  <a href="https://portfolio-nu-amber-p12k7alk48.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sachinkavishka001/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:sachinkavishka001@gmail.com">sachinkavishka001@gmail.com</a>
+</p>
